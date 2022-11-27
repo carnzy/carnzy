@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Feng-ZhenYuan
-- 👀 I’m interested in learning
+- 👋 Hi, I’m @carnzy
+- 👀 I’m interested in learning and game
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 1306701826@qq.com
 
 <!---
