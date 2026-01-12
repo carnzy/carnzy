@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @carnzy
-- 👀 I’m interested in learning and game
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 1306701826@qq.com
 
 <!---
